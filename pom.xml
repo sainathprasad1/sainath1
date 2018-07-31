@@ -42,11 +42,11 @@
 
 		<repository>
 			<id>prasad</id>
-			<url>http://localhost:8081/nexus/content/repositories/sainath/</url>
+			<url>http://localhost:8081/nexus/content/repositories/ram/</url>
 		</repository>
 		<snapshotRepository>
 			<id>prasad1</id>
-			<url>http://localhost:8081/nexus/content/repositories/sainath1/</url>
+			<url>http://localhost:8081/nexus/content/repositories/ram1/</url>
 		</snapshotRepository>		
   </distributionManagement>
 
